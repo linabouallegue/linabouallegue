@@ -43,14 +43,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=linabouallegue&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabouallegue&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-
----
 
 ### 🤝 Let’s Connect
 

@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Lina BOUALLEGUE
 
 💻 **Data Science Engineer**  
-🚀 Passionnée par le **Machine Learning**, l’**IA** et les projets innovants  
-📊 J’aime transformer les données en **informations utiles** et en **solutions concrètes**
+
 
 ---
 

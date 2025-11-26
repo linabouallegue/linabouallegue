@@ -46,5 +46,5 @@
 
 ### 🤝 Let’s Connect
 
-- 💼 LinkedIn: [Ton LinkedIn ici](https://www.linkedin.com/in/lina-bouallegue)
+- 💼 LinkedIn: [Lina Bouallegue](https://www.linkedin.com/in/lina-bouallegue/)
 - 📧 Email: lina.bouallegue@polytechnicien.tn

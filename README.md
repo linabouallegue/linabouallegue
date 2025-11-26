@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lina BOUALLEGUÉ
+## Hi there 👋 I'm Lina BOUALLEGUE
 
 💻 **Data Science Engineer**  
 🚀 Passionnée par le **Machine Learning**, l’**IA** et les projets innovants  
@@ -45,9 +45,10 @@
 
 ### 📈 GitHub Stats
 
-![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight)
+![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=linabouallegue&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linabouallegue&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
 
 ---
 
